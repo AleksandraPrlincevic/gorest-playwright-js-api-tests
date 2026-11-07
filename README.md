@@ -23,7 +23,7 @@ The project covers Users and Todos resources of the GoRest API, including positi
 Clone the repository:
 
 ```bash
-git clone https://github.com/AleksandraPrlincevic/playwright-api-gorest.git
+git clone https://github.com/AleksandraPrlincevic/gorest-playwright-js-api-tests.git
 ```
 
 Navigate to the project directory and install dependencies:
